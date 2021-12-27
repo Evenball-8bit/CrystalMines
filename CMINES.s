@@ -4,6 +4,7 @@
 ;==  Copyright (C) 1989 by Ken Beckett                                      ==
 ;=============================================================================
 ;
+;CA65 port by Evenball
 .include "CMDEF.h"
 ;DEFINE(ROMVER,-1)		;REMOVE COMMENT TO MAKE ROM VERSION.
 ROMVER = -1
